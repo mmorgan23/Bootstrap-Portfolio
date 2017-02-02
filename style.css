@@ -1,0 +1,70 @@
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      color: #fff;
+      background-color: black;
+    }
+    
+
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: grey;
+      padding: 25px;
+    }
+
+    .navbar-brand {
+    	;
+
+    }
+
+    .jumbotron {
+	background-image: url("images/emx5vT.jpg");   
+ }
+
+ h1 {
+ 	color: white;
+ }
+
+ .github {
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+
+.linkedin {
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+
+.overflow {
+	height: 50px;
+	width: 50px;
+}
+
+
+.img-responsive {
+  width: 400px;
+  height: 300px;
+}
+
+.largebox {
+  margin-bottom: 10px;
+}
+
+.mypic {
+  width: 250px;
+  height: 238px;
+  margin-right: 10px;
+}
+
+.largebox1 {
+  width: 400px;
+  margin-bottom: 20px;
+
+}
+
+.footer {
+  color: white;
+}
